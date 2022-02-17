@@ -30,7 +30,7 @@ body::-webkit-scrollbar-thumb {
 }
 body::-webkit-scrollbar-track {
   background-color: #ccc;
-  border-radius: 100rem;
+  /* border-radius: 100rem; */
 }
 
 /* Responsive */
